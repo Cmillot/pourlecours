@@ -14,7 +14,10 @@ public class Domooo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+   System.out.print("rien");
    
+   
+   /////////check moi ca les slashhhsssss
         ///comentaite super pertinent!
     }
 }
